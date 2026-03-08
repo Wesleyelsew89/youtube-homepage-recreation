@@ -2,6 +2,14 @@
 
 A recreation of the YouTube homepage interface built for front-end practice.
 
+## Purpose
+
+This project was created to practice:
+
+* layout structuring
+* component organization
+* interface recreation
+
 ## Technologies
 
 * HTML5
@@ -14,14 +22,6 @@ A recreation of the YouTube homepage interface built for front-end practice.
 ## Live Demo
 
 https://wesleyelsew89.github.io/youtube-homepage-recreation/
-
-## Purpose
-
-This project was created to practice:
-
-* layout structuring
-* component organization
-* interface recreation
 
 ## Disclaimer
 
